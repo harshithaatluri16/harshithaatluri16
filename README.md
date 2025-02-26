@@ -7,5 +7,5 @@ Thank you for visiting my GitHub profile! Here's a little about me:
 - 🔭 I’m currently working on a deep Learning project
 (https://huggingface.co/datasets/radiata-ai/brain-structure)-OASIS-1 dataset.
 - 🤔 I’m looking for help with Deep Learning
-- 📫 Here's how you can reach me: https://www.linkedin.com/in/harshitha-atluri-734880216/ or harshiatluri00@gmail.com
+- 📫 Here's how you can reach me: https://www.linkedin.com/in/harshitha-atluri-734880216/ 
 -->If you want to talk to me or want to discuess something then feel free to send me an email at harshiatluri00@gmail.com
