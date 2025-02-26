@@ -1,6 +1,4 @@
 ## Hello I am Harshitha 👋
-
-<!--
 Thank you for visiting my GitHub profile! Here's a little about me:
 
 - 👯Pronouns:** She/Her
