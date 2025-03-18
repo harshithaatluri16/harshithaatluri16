@@ -2,7 +2,7 @@
 Thank you for visiting my GitHub profile! Here's a little about me:
 
 - 👯Pronouns:** She/Her
-- Current Role:** Data Scientist @Oeson Learning
+- Current Role:** Data Scientist Intern @Oeson Learning
 - 🔭Projects:** Explore my profile for various **ML and DL projects**.
 - 🔭 I’m currently working on a deep Learning project
 (https://huggingface.co/datasets/radiata-ai/brain-structure)-OASIS-1 dataset.
